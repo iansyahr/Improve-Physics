@@ -17,7 +17,7 @@ Just-test
 
 ## Kelas 11
 12. Kesetimbangan dan Dinamika Benda Tegar
-13.Elastisitas dan Hukum Hooke
+13. Elastisitas dan Hukum Hooke
 14. Fluida Statis
 15. Fluida Dinamis
 16. Suhu dan Kalor
