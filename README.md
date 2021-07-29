@@ -1,6 +1,7 @@
 # Improve-Physics
-Just-test
+Repositori ini berisi semua materi fisika sekolah menengah termasuk latihan soal dan panduan belajar untuk membantu siswa mempelajari materi.
 
+Materi di dalam repositori ini akan terus diperbaharui menyesuaikan dengan Kurikulum Nasional
 
 ## Kelas 10
 1. Hakikat Ilmu Fisika
