@@ -1,6 +1,6 @@
 # Improve-Physics
 Just-test
-https://github.com/settings/appearance
+
 
 ## Kelas 10
 1. Hakikat Ilmu Fisika
